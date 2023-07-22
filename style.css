@@ -245,3 +245,15 @@ position: absolute;
 margin-top: 48px;
 margin-left: 760px;
 }
+.end_of_homepage{
+  margin: 0 auto;
+  max-width: 1440px;
+height: 191px;
+flex-shrink: 0;
+background: #00353B;
+}
+.p_container{
+  width: 338px;
+  margin-left: 551px;
+  position: absolute;
+}
