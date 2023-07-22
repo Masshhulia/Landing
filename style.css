@@ -589,3 +589,135 @@ font-style: normal;
 font-weight: 400;
 line-height: 27px;
 }
+.join_us{
+  margin: 0 auto;
+  max-width: 1440px;
+height: 1020px;
+flex-shrink: 0;
+background: #ffffff;
+}
+.main_block{
+  width: 1280px;
+height: 539px;
+flex-shrink: 0;
+margin-left: 80px;
+}
+.pink_block{
+  width: 660px;
+height: 539px;
+flex-shrink: 0;
+border-radius: 24px;
+background: #FCD8CA;
+}
+.text_block{
+  width: 480px;
+height: 411px;
+margin-top: 64px;
+margin-left: 64px;
+}
+.rotation{
+  margin-right: 416px;
+  margin-top: 64px;
+  width: 63px;
+  height: 29px;
+  flex-shrink: 0;
+border-radius: 4px;
+background: #FFF;
+color: #1F2937;
+font-family: DM Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px; 
+border: none;
+}
+.join_caption{
+  width: 478px;
+  margin-top: -30px;
+}
+.color3{
+  color: #374151;
+}
+.j_precaption{
+  margin-top: -11px;
+}
+.img{
+  width: 640px;
+  height: 539px;
+  flex-shrink: 0;
+  background:  lightgray 50% / cover no-repeat;
+  margin-left: 640px;
+  margin-top: -411px;
+}
+.advant_block{
+  display: flex;
+width: 1280px;
+height: 209px;
+justify-content: center;
+align-items: flex-start;
+gap: 48px;
+flex-shrink: 0;
+margin-left: 80px;
+margin-top: 80px;
+}
+.logo{
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+}
+h3{
+  color: #1F2937;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 33.6px;
+}
+.point_caption{
+  width: 378px;
+  height: 34px;
+  margin-top: 32px;
+}
+.p_precaption{
+  width: 378px;
+  height: 72px;
+  margin-top: 24px;
+}
+.color_p{
+  color: #4B5563;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+}
+.point{
+  width: 394.672px;
+height: 209px;
+flex-shrink: 0;
+}
+.benefits{
+  margin: 0 auto;
+  max-width: 1440px;
+height: 1166px;
+flex-shrink: 0;
+background: #FFF;
+}
+.text_frame{
+  width: 768px;
+height: 237px;
+flex-shrink: 0;
+margin-left: 336px;
+}
+.b_caption{
+  width: 691px;
+text-align: center;
+margin-left: 39px;
+margin-top: -28px;
+}
+.b1_precaption{
+  width: 730px;
+  text-align: center;
+  margin-top: -11px;
+  margin-left: 19px;
+}
