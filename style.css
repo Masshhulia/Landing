@@ -111,7 +111,6 @@ flex-shrink: 0;
   gap: 8px;
   flex-shrink: 0;
 }
-
 .registration_button {
   width: 106px;
   height: 50px;
@@ -132,4 +131,117 @@ flex-shrink: 0;
 .registration_button:hover {
   background-color: #1F2937;
   color: #FFF;
+}
+.homepage_container {
+  margin: 0 auto;
+  max-width: 1440px;
+height: 768px;
+flex-shrink: 0;
+background: #00353B;
+}
+.text_section{
+  width: 600px;
+height: 398px;
+flex-shrink: 0;
+margin-top: 169px;
+margin-left: 80px;
+position: absolute;
+}
+.caption{
+  width: 598px;
+  height: 135px;
+  margin-bottom: 30px;
+}
+h1{
+  height: 135px;
+color: #FFF;
+font-family: Poppins;
+font-size: 56px;
+font-style: normal;
+font-weight: 400;
+line-height: 67.2px;
+}
+.precaption{
+  width: 587px;
+  margin-block-end: 23.6px;
+}
+p{
+  color: #FFF;
+font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 27px; 
+}
+.buttons{
+  display: inline-flex;
+  padding: 16px 288px 0px 0px;
+  align-items: center;
+  gap: 16px;
+}
+.explore {
+  width: 172px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1px solid #22A45A;
+  background: #22A45A;
+  color: #FFF;
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+
+  transition: background-color 0.3s, transform 0.2s;
+  cursor: pointer;
+}
+
+.explore:hover {
+  background-color: #158E5E;
+  transform: scale(1.05);
+}
+.watch_button_container{
+  display: flex;
+  width: 96px;
+  height: 40px;
+  padding: 2px 0px;
+  justify-content: left;
+  align-items: center;
+  color: #FFF;
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  background-color: transparent;
+  border: none; 
+  outline: none;
+}
+i.fa{
+  width: 24px;
+flex-shrink: 0;
+color: #ffffff;
+font-size: 24px;
+margin-left: -7.5px;
+float: left;
+}
+.image{
+  margin-top: 48px;
+}
+.stars_img{
+  margin-top: 48px;
+  margin-left: 14.7px;
+}
+.big_img{
+  width: 600px;
+height: 640px;
+flex-shrink: 0;
+border-radius: 24px;
+background:  lightgray 50% / cover no-repeat;
+position: absolute;
+margin-top: 48px;
+margin-left: 760px;
 }
