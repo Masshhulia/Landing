@@ -1008,3 +1008,86 @@ line-height: 24px; /* 160% */
   margin-left: 24px;
   margin-top: 56px;
 }
+.start{
+  margin: 0 auto;
+  max-width: 1440px;
+height: 433px;
+flex-shrink: 0;
+background: #00353B;
+}
+.start_box {
+  width: 768px;
+  height: 225px;
+  flex-shrink: 0;
+  margin-left: 336px;
+  margin-top: 123px;
+  position: absolute;
+}
+.st {
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 57.6px;
+}
+.start_caption {
+  width: 489px;
+  height: 58px;
+  position: relative;
+  left: 140px; 
+  top: -50px;
+}
+.start_precaption {
+  width: 730px;
+  height: 54px;
+  position: relative;
+  left: 15px;
+  top: -38px; 
+}
+.color_start {
+  color: #FFF;
+  text-align: center;
+}
+.color_start {
+  color: #FFF;
+  text-align: center;
+}
+.box_buttons{
+  width: 768px;
+  height: 66px;
+  flex-shrink: 0;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  left: 237px; 
+  margin-top: 2px;
+}
+.st_gs_button{
+  width: 135px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 8px;
+border: 1px solid #22A45A;
+background: #22A45A;
+color: #FFF;
+text-align: center;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
+.st_cu_button{
+  width: 132px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 8px;
+border: 1px solid #FFF;
+background: #FFF;
+color: #1F2937;
+text-align: center;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
